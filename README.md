@@ -40,9 +40,9 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 1.	Web tarayıcınızı açın ve http://localhost/phpmyadmin adresine gidin.
 2.	Yeni bir veritabanı oluşturun. Veritabanı adını academic_planning_system olarak belirleyin.
 3.	academic_planning_system.sql dosyasını içe aktarın:
-•	Üst menüden İçe Aktar sekmesine tıklayın.
-•	Dosya Seç butonuna tıklayın ve proje dosyalarınız içindeki academic_planning_system.sql dosyasını seçin.
-•	Git butonuna tıklayarak dosyayı içe aktarın.
+   •	Üst menüden İçe Aktar sekmesine tıklayın.
+   •	Dosya Seç butonuna tıklayın ve proje dosyalarınız içindeki academic_planning_system.sql dosyasını seçin.
+   •	Git butonuna tıklayarak dosyayı içe aktarın.
 
 ### Adım 4: Projeyi Çalıştırın
 
