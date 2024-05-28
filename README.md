@@ -44,7 +44,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 •	Dosya Seç butonuna tıklayın ve proje dosyalarınız içindeki academic_planning_system.sql dosyasını seçin.
 •	Git butonuna tıklayarak dosyayı içe aktarın.
 
-Adım 4: Projeyi Çalıştırın
+### Adım 4: Projeyi Çalıştırın
 
 
 1.	Web tarayıcınızı açın ve http://localhost/Academicera adresine gidin.
