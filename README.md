@@ -14,7 +14,7 @@ Proje hakkında daha fazla bilgi ve canlı demo için aşağıdaki linke tıklay
 
 Proje hakkında detaylı bilgi almak ve nasıl çalıştığını görmek için aşağıdaki video linkine tıklayın:
 
-[Proje Tanıtım Videosu](#)
+[Proje Tanıtım Videosu](https://youtu.be/kcGOa2BiukY)
 
 ## Kurulum Talimatları
 
