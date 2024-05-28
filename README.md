@@ -37,15 +37,14 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
    git clone https://github.com/KasimDeliaci/Academicera.git
 ### Adım 3: Veritabanını Kurun
 
-1.	Web tarayıcınızı açın ve http://localhost/phpmyadmin adresine gidin.
-2.	Yeni bir veritabanı oluşturun. Veritabanı adını academic_planning_system olarak belirleyin.
-3.	academic_planning_system.sql dosyasını içe aktarın:
-   3.1	Üst menüden İçe Aktar sekmesine tıklayın.
-   3.2	Dosya Seç butonuna tıklayın ve proje dosyalarınız içindeki academic_planning_system.sql dosyasını seçin.
-   3.3	Git butonuna tıklayarak dosyayı içe aktarın.
+1. Web tarayıcınızı açın ve [http://localhost/phpmyadmin](http://localhost/phpmyadmin) adresine gidin.
+2. Yeni bir veritabanı oluşturun. Veritabanı adını `academic_planning_system` olarak belirleyin.
+3. `academic_planning_system.sql` dosyasını içe aktarın:
+    - Üst menüden **İçe Aktar** sekmesine tıklayın.
+    - **Dosya Seç** butonuna tıklayın ve proje dosyalarınız içindeki `academic_planning_system.sql` dosyasını seçin.
+    - **Git** butonuna tıklayarak dosyayı içe aktarın.
 
 ### Adım 4: Projeyi Çalıştırın
-
 
 1.	Web tarayıcınızı açın ve http://localhost/Academicera adresine gidin.
 2.	Kayıt olarak veya giriş yaparak projeyi kullanmaya başlayabilirsiniz.
