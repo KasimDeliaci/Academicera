@@ -1,0 +1,27 @@
+.footer {
+    background-color: #F0F7FF;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.footer-left {
+    margin-left: 25px;
+}
+.footer-right {
+    margin-right: 45px;
+}
+.footer-center {
+    text-align: center;
+}
