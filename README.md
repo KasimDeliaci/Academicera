@@ -46,6 +46,6 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 ### Adım 4: Projeyi Çalıştırın
 
-1.	Web tarayıcınızı açın ve http://localhost/Academicera adresine gidin.
+1.	Web tarayıcınızı açın ve http://localhost/academicera adresine gidin.
 2.	Kayıt olarak veya giriş yaparak projeyi kullanmaya başlayabilirsiniz.
 
